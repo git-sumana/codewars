@@ -1,6 +1,6 @@
 # CodeWars Solutions
 
-This repository contains my solutions to various CodeWars challenges in both Java and Python.
+This repository contains my solutions to various CodeWars challenges in both Java and Python languages.
 
 ## About CodeWars
 
